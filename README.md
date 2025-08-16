@@ -9,7 +9,8 @@
 - 🌍 Based in **Bengaluru, India**  
 - 📊 Interested in **Data Analytics, ML, and Cloud Integration**  
 - 💡 Currently learning **Django & Data Structures in Python**  
-- 🎓 Open to **entry-level opportunities** in Data Analytics / Machine Learning  
+- 🎓 Open to **entry-level opportunities** in Data Analytics / Machine Learning
+- - 🛠️ **Currently working on:** Building an **AI-Powered Data Pipeline** (ETL → ML → Cloud Deployment)  
 
 ---
 
