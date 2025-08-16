@@ -40,7 +40,7 @@
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/banish006)    
-- 📧 **banishgowdads@example.com**  
+- 📧 **banishdsgowda@gmail.com**  
 
 ---
 
