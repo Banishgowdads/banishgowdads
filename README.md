@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=140&section=header&text=Banish%20Gowda&fontSize=48&fontColor=ffffff&fontAlignY=35" alt="Banish Gowda banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=140&section=header&text=Banish%20Gowda%20D%20S&fontSize=48&fontColor=ffffff&fontAlignY=35" alt="Banish Gowda banner"/>
 </p>
 
 <!-- Typing SVG -->
@@ -19,7 +19,7 @@
 
 ---
 
-# 👋 Hi, I'm Banish Gowda  
+# 👋 Hi, I'm Banish Gowda D S
 
 🚀 **Aspiring Data Engineer & Machine Learning Enthusiast**  
 🎯 Passionate about building ETL pipelines, turning raw data into insights, and deploying AI-powered solutions.  
