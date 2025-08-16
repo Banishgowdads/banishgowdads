@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Banish Gowda 👋  
 
-<!--
-**Banishgowdads/banishgowdads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Analyst & Machine Learning Engineer**  
+🎯 Passionate about turning data into insights and building intelligent solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌍 Based in **Bengaluru, India**  
+- 📊 Interested in **Data Analytics, ML, and Cloud Integration**  
+- 💡 Currently learning **Django & Data Structures in Python**  
+- 🎓 Open to **entry-level opportunities** in Data Analytics / Machine Learning  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Excel  
+- **ML/AI:** Scikit-learn, FastAPI, ML Pipelines (basic)  
+- **Web Frameworks:** Django (learning), FastAPI  
+- **Cloud:** AWS (beginner), Deployment basics  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📈 GitHub Stats
+![Banish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Featured Projects
+🔹 [**AI-Powered Data Pipeline**](#) – ETL to Cloud Integration  
+🔹 [**Machine Learning Models**](#) – Classification, Regression projects  
+🔹 [**Django Practice Apps**](#) – Hands-on web apps in Python  
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/banish006)    
+- 📧 **banishgowdads@example.com**  
+
+---
+
+⭐️ *"Learning every day, building step by step."*
